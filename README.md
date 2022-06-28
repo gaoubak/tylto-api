@@ -23,6 +23,8 @@ Fan de manga j'ai donc crée une  API où vous pouvez ajouter vos mangas préfé
 | Un test                  | ✅             | UserTest.php |
 | ------------------- | -- | ---------------------------------------- | 
 | Une commande Artisan        | ✅ | uploadApiCommand.php |  
- |
-
-
+ 
+### Détails sur la commande Artisan 
+| Fonctionnalité              | Commentaire                                   | 
+| ------------------- | ---------------------------------------- | 
+| Une commande Artisan         |  La commande : php artisan manga:show {id}.<br>{id} représente l'id d'un manga .<br>Cette commande récupère,  depuis l'API, et stock les données du pokémon dans un fichier .txt au niveau de storage\app\public. |
