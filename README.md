@@ -22,11 +22,11 @@ Fan de manga j'ai donc crée une  API où vous pouvez ajouter vos mangas préfé
 
 # Résumé du projet
 Il consiste à développer une mini (web) API avec le framework Laravel respectant les contraintes ci-dessous. Le sujet est libre.
--La dernière version du framework Laravel doit être utilisée : Laravel 9.18.0
--Les réponses de l’API doivent être renvoyées en JSON
--Les quatre verbes GET, POST, PATCH et DELETE doivent être utilisées
--L’application doit contenir au moins un modèle, une migration, un contrôleur, une ressource API (https://laravel.com/docs/9.x/eloquent-resources), un form request et un test
--L’application doit contenir au choix : une commande Artisan (qui fait plus qu’imprimer du texte), 
+1. La dernière version du framework Laravel doit être utilisée : Laravel 9.18.0
+2. Les réponses de l’API doivent être renvoyées en JSON
+3. Les quatre verbes GET, POST, PATCH et DELETE doivent être utilisées
+4. L’application doit contenir au moins un modèle, une migration, un contrôleur, une ressource API (https://laravel.com/docs/9.x/eloquent-resources), un form request et un test
+5. L’application doit contenir au choix : une commande Artisan (qui fait plus qu’imprimer du texte), 
 
  
 ### Détails sur la commande Artisan 
