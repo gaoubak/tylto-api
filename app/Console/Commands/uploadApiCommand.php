@@ -13,7 +13,7 @@ class uploadApiCommand extends Command
      *
      * @var string
      */
-    protected $signature = 'uploadApiCommand:show {id}';
+    protected $signature = 'manga:show {id}';
 
     /**
      * The console command description.
